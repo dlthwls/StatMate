@@ -7,6 +7,7 @@
 * **Subject**: Computational Thinking & SW Coding
 * **Submission Date**: 2025-12-27
 
+
 ## 2. Key Features
 ### 1) Grade Data Analysis
 * **Technology**: Pandas
@@ -25,6 +26,7 @@
 * Recognizes handwritten digits (0-100) uploaded by the user.
 * Preprocesses images (Grayscale, Resize, Inversion) for optimal model performance.
 
+
 ---
 
 ## Note on Technical Implementation
@@ -36,6 +38,7 @@ While the initial Software Requirements Specification (SRS) planned to use **Ten
 
 ---
 
+
 ## 3. Tech Stack & Environment
 * **Language**: Python 3.9+
 * **Web Framework**: Streamlit
@@ -45,6 +48,7 @@ While the initial Software Requirements Specification (SRS) planned to use **Ten
   * `scikit-learn` (Machine Learning)
   * `matplotlib` (Visualization)
   * `Pillow` (Image Processing)
+
 
 ## 4. How to Run
 To run this project locally, follow these steps:
@@ -57,7 +61,6 @@ To run this project locally, follow these steps:
     ```bash
     streamlit run app.py
 
----
 
 ## 5. Author
 * Name: Lee Sojin
